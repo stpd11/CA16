@@ -22,7 +22,6 @@ All you need to do, is create a new repository and then to upload all of your cu
  1. <b>Create a new repository</b> -  In the top right-hand corner of this page there should be a '*New*' button, press it! 
  2. You are now looking at the repository creation page:
  ![Repository Creation Screen](https://github.com/fabcooldog/Odds-and-Sods/blob/master/Repository%20Guide.png)
- 	(Yes, we know that the shading there was off; just blame it all on Jacob)
 	 3.  Name it! (Best go with CA16 or Gaming Task etc.)
 	 4. Make it Private
 	 5. Initialise it with a README (This sets it up properly, without this, nothing can happen)

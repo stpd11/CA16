@@ -12,35 +12,22 @@ As it is used so widely in the real world, now is the perfect point to get start
 
 So far, all the work we have done in our CA is spread wildly throughout our school computers, maybe a bit at home, maybe some stored with Lucidchart and honestly it's not easy to mark or to keep track of for anyone.  
 GitHub is the solution to this; this repository (see the Glossary) is a basic template of all the work that needs doing for the Gaming Task.
-All you need to do, is create a new repository and then to upload all of your current work.
 
+The fact that you are seeing this repository should mean that you have got your own private repository with nothing but empty files in. 
+Follow the next few steps to fill it up with your work so far.
 
-####Setting Your Repository Up
-
-![New Repo Sign](https://github.com/fabcooldog/Odds-and-Sods/blob/master/GitHub%20New%20Repo%20Sign.PNG)
-
- 1. <b>Create a new repository</b> -  In the top right-hand corner of this page there should be a '*New*' button, press it! 
- 2. You are now looking at the repository creation page:
- ![Repository Creation Screen](https://github.com/fabcooldog/Odds-and-Sods/blob/master/Repository%20Guide.png)
-	 3.  Name it! (Best go with CA16 or Gaming Task etc.)
-	 4. Make it Private
-	 5. Initialise it with a README (This sets it up properly, without this, nothing can happen)
-	 6. Create Repository!
- 2. After a moment of waiting, you should be faced with your very own repository *CA16*.
- 3. Now all that needs doing is to fill up your copy with your work.
- 4. When making changes to a repository, you use '*commits*'; basically just saving a file. 
+ 1. When making changes to a repository, you have two options: '*commits*' or '*branches and pull-requests*', for now we'll stick to commits; basically just saving a file. 
  e.g. I might add '*Flowchart.png*' to '*Part1 Files*':
 	1. Go into the folder where you'd like the files to end up.
-	2. Guess what, press '*Upload Files*' to upload files! 
+	2. Press '*Upload Files*' to upload files! 
   
     ![Upload Files Sign](https://github.com/fabcooldog/Odds-and-Sods/blob/master/GitHub%20Upload%20Files%20Sign.JPG)
 	3. Then, drag or select files to add into a certain location. (e.g. Flowchart.png)
-	4. Title your commit with a friendly message. (e.g. '*Added Flowchart to Part1 Files*)
+	4. Title your commit with a friendly message. (e.g. '*Add Flowchart to Part1 Files*) [Style guide](https://github.com/phonegap/phonegap/wiki/Git-Commit-Message-Format)
 	5. Press Commit Changes! 
   
   ![Commit Changes Sign](https://github.com/fabcooldog/Odds-and-Sods/blob/master/GitHub%20Commit%20Changes%20Sign.JPG)
- 5. Email Mr Dougall with a link to your repository  
- 5. Get back to work and at the end of each lesson, upload any new files to your repository.
+ 5. Get back to work! Then, at the end of each lesson, upload any new files to your repository.
 
 
 
